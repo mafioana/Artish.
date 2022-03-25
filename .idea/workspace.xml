@@ -4,10 +4,7 @@
     <option name="autoReloadType" value="NONE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="cf5b9cdc-c307-4101-a8a6-2d69fadbf1f7" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-    </list>
+    <list default="true" id="cf5b9cdc-c307-4101-a8a6-2d69fadbf1f7" name="Default Changelist" comment="Artish soft educational intitulat  destinat copiilor din clasele primare ce doreste sa prezinte lectii si jocuri interactive in scopul invatarii unor tehnici de pictura simple si o baza teoretica." />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -75,6 +72,14 @@
       <option name="presentableId" value="Default" />
       <updated>1647888253518</updated>
     </task>
+    <task id="LOCAL-00001" summary="Artish soft educational intitulat  destinat copiilor din clasele primare ce doreste sa prezinte lectii si jocuri interactive in scopul invatarii unor tehnici de pictura simple si o baza teoretica.">
+      <created>1648233375167</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1648233375167</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -87,5 +92,9 @@
         </entry>
       </map>
     </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="Artish soft educational intitulat  destinat copiilor din clasele primare ce doreste sa prezinte lectii si jocuri interactive in scopul invatarii unor tehnici de pictura simple si o baza teoretica." />
+    <option name="LAST_COMMIT_MESSAGE" value="Artish soft educational intitulat  destinat copiilor din clasele primare ce doreste sa prezinte lectii si jocuri interactive in scopul invatarii unor tehnici de pictura simple si o baza teoretica." />
   </component>
 </project>
